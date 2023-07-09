@@ -1,7 +1,7 @@
 # 1337x Torrent Search
 
 [![npm version](https://img.shields.io/npm/v/@dil5han/1337x)](https://www.npmjs.com/package/@dil5han/1337x)
-[![License](https://img.shields.io/github/license/dil5han/1337x)](LICENSE)
+[![License](https://img.shields.io/github/license/ravindudil5han/1337x)](LICENSE)
 
 A Node.js library for scraping torrent data from 1337x.to.
 
