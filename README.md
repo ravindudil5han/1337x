@@ -24,7 +24,7 @@ t1337x('search', 'pages') // t1337x('cars', '1') Replace the word "cars" with th
             console.log('Error: Failed to fetch data from 1337x.');
 
         } else if (data.length === 0) {
-            console.log('No search results available for the query ("cars").');
+            console.log('No search results .');
 
         } else {
             console.log(data);
