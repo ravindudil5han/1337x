@@ -18,7 +18,7 @@ npm install @dil5han/1337x
 ```javascript
 const t1337x = require('@dil5han/1337x');
 
-t1337x('search', 'pages') // t1337x('cars', '1') Replace the word "cars" with the word you want to search
+t1337x.t1337x('search', 'pages') // t1337x('cars', '1') Replace the word "cars" with the word you want to search
     .then((data) => {
         if (data === null) {
             console.log('Error: Failed to fetch data from 1337x.');
